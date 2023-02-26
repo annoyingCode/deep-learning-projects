@@ -1,5 +1,5 @@
-# Classify Images of Cats and Dogs using Transfer Learning
+# Deep Learning with PyTorch : Generative Adversarial Network
 
-# This is a coursera guided project. This project uses transfer learning to train a neural network.
+# This is a coursera guided project. This project uses Deep Convolutional Generative Adversarial Network using PyTorch to generate handwritten digits.
 
-Source (https://duckduckgo.com](https://www.coursera.org/projects/googlecloud-classify-images-of-cats-and-dogs-using-transfer-learning-6qgew)
+Source (https://www.coursera.org/projects/deep-learning-with-pytorch-generative-adversarial-network)
